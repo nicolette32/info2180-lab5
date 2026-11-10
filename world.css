@@ -1,3 +1,4 @@
+/*page default*/
 body {
     font-family: Arial, sans-serif;
     background: #f4f7fa;
@@ -22,7 +23,7 @@ main{
     margin-bottom: 1.5rem;
 }
 
-
+/*makes input stretch to fill the leftover space*/
 #country {
     flex: 1;
     padding: 0.5rem;
